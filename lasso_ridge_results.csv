@@ -1,0 +1,227 @@
+feature,city,lasso_coef,ridge_coef
+Unnamed: 0,Oslo,-40.30605616945247,-47.81601135024092
+host_response_time,Oslo,-4.1117139935175215,-43.991060226147454
+host_response_rate,Oslo,7.756744687913264,37.16327025582751
+host_acceptance_rate,Oslo,31.36773432517085,65.92920235643719
+host_is_superhost,Oslo,-10.36023514998589,-27.81620781578033
+host_listings_count,Oslo,5413.25956017533,5161.878642752048
+host_total_listings_count,Oslo,-2474.640746446442,-2299.7773778028763
+host_identity_verified,Oslo,17.150849850696687,29.081281497085087
+accommodates,Oslo,68.64282759912213,58.63457149240374
+bathrooms,Oslo,69.25414589865747,45.26398082843242
+bedrooms,Oslo,183.78133946118865,182.8238273652997
+beds,Oslo,53.72921053684271,57.32462595373509
+minimum_nights,Oslo,-0.0,143.95363159498683
+maximum_nights,Oslo,54.8444916889002,61.98621239847616
+minimum_minimum_nights,Oslo,-0.0,-29.926025711982785
+maximum_minimum_nights,Oslo,-12.510192915708181,-21.258533480907342
+minimum_maximum_nights,Oslo,-400.2247236914378,-1066.8473072564389
+maximum_maximum_nights,Oslo,257.67661940861217,458.5743682036712
+minimum_nights_avg_ntm,Oslo,-0.0,-114.17279653017253
+maximum_nights_avg_ntm,Oslo,118.40077098301201,582.5957956095923
+has_availability,Oslo,0.0,0.0
+availability_30,Oslo,72.52014340462927,113.7674849344427
+availability_60,Oslo,0.0,-97.48542792654565
+availability_90,Oslo,0.0,29.261922242731593
+availability_365,Oslo,50.97578137959556,54.8195658067409
+number_of_reviews,Oslo,3.7158949638131027,35.95853210918131
+number_of_reviews_ltm,Oslo,-0.0,28.80374011318815
+number_of_reviews_l30d,Oslo,-0.0,-13.388745321700846
+availability_eoy,Oslo,0.0,41.88217670047672
+number_of_reviews_ly,Oslo,-0.0,-29.017181438101918
+estimated_occupancy_l365d,Oslo,-699.54850693887,-723.4214947829764
+estimated_revenue_l365d,Oslo,803.6950248250176,809.9498772564447
+review_scores_rating,Oslo,0.4809061877511253,38.560600673877694
+review_scores_accuracy,Oslo,0.0,-15.87634354944725
+review_scores_cleanliness,Oslo,40.50178917885581,43.9154288550325
+review_scores_checkin,Oslo,-0.0,-18.50560898608392
+review_scores_communication,Oslo,-0.0,-19.092670142725805
+review_scores_location,Oslo,10.54036025981423,16.115101175088984
+review_scores_value,Oslo,0.0,15.342417699531948
+instant_bookable,Oslo,0.0,-11.122363094596292
+calculated_host_listings_count,Oslo,-2284.7860311044574,-1106.2598332668638
+calculated_host_listings_count_entire_homes,Oslo,-0.0,-1070.057872607872
+calculated_host_listings_count_private_rooms,Oslo,-67.93037390030322,-311.9223152239979
+calculated_host_listings_count_shared_rooms,Oslo,0.0,-41.616823391798896
+distance_to_center_km,Oslo,-91.79886044831954,-98.65674922558027
+has_reviews,Oslo,-101.19114144275885,-121.97747439532476
+room_type_Hotel room,Oslo,0.0,0.0
+room_type_Private room,Oslo,-0.0,-100.11364061963813
+room_type_Shared room,Oslo,-9.196832659400847,-55.65666499336187
+property_type_grouped_Entire Alternative,Oslo,6.787027298177218,6.2632931940914895
+property_type_grouped_Entire Luxury,Oslo,0.0,-0.08593768580544008
+property_type_grouped_Entire Standard,Oslo,0.0,-0.4455952781846736
+property_type_grouped_Hotel,Oslo,-14.799486876549635,7.088835654652457
+property_type_grouped_Private Standard,Oslo,1.3824153211075807,4.67987291140821
+property_privacy_level_Entire,Oslo,0.0,0.8907281240717951
+property_privacy_level_Hotel,Oslo,-0.007412493163435035,7.088835654653043
+property_privacy_level_Private,Oslo,0.22304690192279886,4.679872911408228
+neighbourhood_cleansed_Amager Vest,Oslo,0.0,0.0
+neighbourhood_cleansed_Amager Øst,Oslo,0.0,0.0
+neighbourhood_cleansed_Bispebjerg,Oslo,0.0,0.0
+neighbourhood_cleansed_Bjerke,Oslo,30.527548334886276,51.7793843408124
+neighbourhood_cleansed_Brønshøj-Husum,Oslo,0.0,0.0
+neighbourhood_cleansed_Frederiksberg,Oslo,0.0,0.0
+neighbourhood_cleansed_Frogner,Oslo,32.62083078382415,62.279616932879165
+neighbourhood_cleansed_Gamle Oslo,Oslo,15.821399370874234,46.07175628439847
+neighbourhood_cleansed_Grorud,Oslo,25.642660091035957,41.9846577947715
+neighbourhood_cleansed_Grünerløkka,Oslo,-4.2800075200049035,10.327425504992963
+neighbourhood_cleansed_Indre By,Oslo,0.0,0.0
+neighbourhood_cleansed_Marka,Oslo,-0.0,2.221320593038234
+neighbourhood_cleansed_Nordre Aker,Oslo,-9.32974368971188,-7.875444155381704
+neighbourhood_cleansed_Nordstrand,Oslo,25.96770808013914,46.44036821788185
+neighbourhood_cleansed_Nørrebro,Oslo,0.0,0.0
+neighbourhood_cleansed_Sagene,Oslo,-0.0,13.207497634403305
+neighbourhood_cleansed_Sentrum,Oslo,-0.0,1.8501711056231809
+neighbourhood_cleansed_St. Hanshaugen,Oslo,26.167128845321717,54.87972805469327
+neighbourhood_cleansed_Stovner,Oslo,0.0,14.640695096709553
+neighbourhood_cleansed_Søndre Nordstrand,Oslo,-11.908049400363202,-11.615168416259454
+neighbourhood_cleansed_Ullern,Oslo,-7.3793172119015935,-4.945046374563089
+neighbourhood_cleansed_Valby,Oslo,0.0,0.0
+neighbourhood_cleansed_Vanløse,Oslo,0.0,0.0
+neighbourhood_cleansed_Vesterbro-Kongens Enghave,Oslo,0.0,0.0
+neighbourhood_cleansed_Vestre Aker,Oslo,0.0,8.557762722555232
+neighbourhood_cleansed_Østensjø,Oslo,-12.441133215458066,-6.424363753789255
+neighbourhood_cleansed_Østerbro,Oslo,0.0,0.0
+bathrooms_text_0 shared baths,Oslo,-0.0,-6.917830968332483
+bathrooms_text_1 bath,Oslo,-16.169345824846786,-144.89817843067317
+bathrooms_text_1 private bath,Oslo,-0.0,-22.436576929234935
+bathrooms_text_1 shared bath,Oslo,-0.0,-30.11166181786904
+bathrooms_text_1.5 baths,Oslo,-0.0,-54.2426328853879
+bathrooms_text_1.5 shared baths,Oslo,121.99146798647439,126.46715453996948
+bathrooms_text_2 baths,Oslo,124.0225015753533,78.27005591518406
+bathrooms_text_2 shared baths,Oslo,-0.0,0.8594661034770882
+bathrooms_text_2.5 baths,Oslo,116.4815481292508,105.52152585498386
+bathrooms_text_2.5 shared baths,Oslo,-16.909295893526167,-27.183283503718524
+bathrooms_text_3 baths,Oslo,34.54170913623862,34.7554347485846
+bathrooms_text_3 shared baths,Oslo,28.633292517392057,43.000198114755044
+bathrooms_text_3.5 baths,Oslo,42.46680960747421,47.230335678057315
+bathrooms_text_4 baths,Oslo,-0.0,-12.799776166600791
+bathrooms_text_4 shared baths,Oslo,-13.791539982671166,-20.863239428706944
+bathrooms_text_4.5 baths,Oslo,238.89822658111413,241.1409682253494
+bathrooms_text_5 baths,Oslo,0.0,0.0
+bathrooms_text_Half-bath,Oslo,-0.0,-16.60000218989838
+bathrooms_text_Private half-bath,Oslo,-0.0,-14.431542763056422
+bathrooms_text_Shared half-bath,Oslo,0.0,-9.03579056528526
+property_type_Entire Alternative,Oslo,12.244588495136268,6.263293194088677
+property_type_Entire Luxury,Oslo,0.0,-0.08593768580554671
+property_type_Entire Standard,Oslo,0.0,-0.4455952781936839
+property_type_Hotel,Oslo,-0.013003863907382356,7.088835654649592
+property_type_Private Standard,Oslo,1.2804190583047328,4.67987291140795
+property_category_Hotel,Oslo,-1.7878080660767562e-05,7.088835654649439
+property_category_Luxury,Oslo,0.0,-0.08593768580543908
+property_category_Special,Oslo,139.70415709530255,148.30014510478648
+property_category_Standard,Oslo,0.0,-0.2950184326905033
+Unnamed: 0,Copenhagen,0.0,8.377255917293798
+host_response_time,Copenhagen,0.0,1.7033945358988976
+host_response_rate,Copenhagen,20.058842369651106,28.325266753745176
+host_acceptance_rate,Copenhagen,35.161208033960584,39.236161388455756
+host_is_superhost,Copenhagen,20.235066293025515,25.474345538837174
+host_listings_count,Copenhagen,110.53444598743278,94.0320593521497
+host_total_listings_count,Copenhagen,0.0,17.428249816876477
+host_identity_verified,Copenhagen,3.9206136913145064,12.489283624219315
+accommodates,Copenhagen,96.16642568281416,111.55497895696938
+bathrooms,Copenhagen,72.81013646926738,37.146908335710584
+bedrooms,Copenhagen,143.8465403394942,136.72175028547377
+beds,Copenhagen,0.0,1.1283157116927676
+minimum_nights,Copenhagen,-0.0,-11.157346469144976
+maximum_nights,Copenhagen,-16.60126362828955,-45.0104873794928
+minimum_minimum_nights,Copenhagen,-0.0,2.076407772800815
+maximum_minimum_nights,Copenhagen,-6.687178474813941,-24.034576790510183
+minimum_maximum_nights,Copenhagen,179.44330369215535,229.58170230081885
+maximum_maximum_nights,Copenhagen,-149.09787566341632,-197.2255080694505
+minimum_nights_avg_ntm,Copenhagen,-0.0,9.207843257998176
+maximum_nights_avg_ntm,Copenhagen,0.0,17.266569052756292
+has_availability,Copenhagen,0.0,0.0
+availability_30,Copenhagen,0.0,-11.647590551282693
+availability_60,Copenhagen,69.29365589215034,89.58109095701967
+availability_90,Copenhagen,91.07214952376333,89.69065662089736
+availability_365,Copenhagen,5.960948791887034,14.043270170248299
+number_of_reviews,Copenhagen,-0.0,3.912694008497425
+number_of_reviews_ltm,Copenhagen,-0.0,2.8709248925829267
+number_of_reviews_l30d,Copenhagen,-0.0,-12.654315600518457
+availability_eoy,Copenhagen,6.195865703267411,16.95831224508007
+number_of_reviews_ly,Copenhagen,-11.883975888901025,-45.42755597878919
+estimated_occupancy_l365d,Copenhagen,-498.01275592148386,-408.5109081736338
+estimated_revenue_l365d,Copenhagen,707.9358563911873,631.5163210930739
+review_scores_rating,Copenhagen,0.0,-4.274267469964155
+review_scores_accuracy,Copenhagen,4.372309412194883,18.248250118311304
+review_scores_cleanliness,Copenhagen,38.59052947442128,45.37815493236695
+review_scores_checkin,Copenhagen,0.0,14.739161947766041
+review_scores_communication,Copenhagen,-0.0,-14.999419164579523
+review_scores_location,Copenhagen,-0.0,-15.130592822486648
+review_scores_value,Copenhagen,0.0,4.2388937132837965
+instant_bookable,Copenhagen,-0.46969452003659884,-16.200384563474838
+calculated_host_listings_count,Copenhagen,85.58814889932897,63.69689405293693
+calculated_host_listings_count_entire_homes,Copenhagen,11.667491245878223,63.15970635153225
+calculated_host_listings_count_private_rooms,Copenhagen,0.0,29.499512678055083
+calculated_host_listings_count_shared_rooms,Copenhagen,-6.540127473381407,-28.606497229568788
+distance_to_center_km,Copenhagen,-87.28194196199847,-90.35034601402315
+has_reviews,Copenhagen,-0.0,-11.178138132189012
+room_type_Hotel room,Copenhagen,-0.0,-3.5740072883937692
+room_type_Private room,Copenhagen,-0.0,-16.80980993860915
+room_type_Shared room,Copenhagen,-4.213577234906416,-11.60789356823635
+property_type_grouped_Entire Alternative,Copenhagen,0.0,-2.1786494051216367
+property_type_grouped_Entire Luxury,Copenhagen,18.74346194820678,6.7402188645448335
+property_type_grouped_Entire Standard,Copenhagen,0.0,-3.2711729978697845
+property_type_grouped_Hotel,Copenhagen,-46.16965128809904,-14.631461821298602
+property_type_grouped_Private Standard,Copenhagen,-0.0,-0.4207263933704462
+property_privacy_level_Entire,Copenhagen,0.0,-0.6094254939443653
+property_privacy_level_Hotel,Copenhagen,-0.0,-14.631461821298684
+property_privacy_level_Private,Copenhagen,-0.0,-0.42072639337043394
+neighbourhood_cleansed_Amager Vest,Copenhagen,0.0,-13.314054878184454
+neighbourhood_cleansed_Amager Øst,Copenhagen,0.0,-10.369299805521827
+neighbourhood_cleansed_Bispebjerg,Copenhagen,-4.112821409540054,-25.041248892373535
+neighbourhood_cleansed_Bjerke,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Brønshøj-Husum,Copenhagen,-0.0,-18.95711588383827
+neighbourhood_cleansed_Frederiksberg,Copenhagen,20.056711256995285,14.283251327824981
+neighbourhood_cleansed_Frogner,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Gamle Oslo,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Grorud,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Grünerløkka,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Indre By,Copenhagen,67.55120394941046,63.99391230564866
+neighbourhood_cleansed_Marka,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Nordre Aker,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Nordstrand,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Nørrebro,Copenhagen,-2.481586236029649,-23.596396413399262
+neighbourhood_cleansed_Sagene,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Sentrum,Copenhagen,0.0,0.0
+neighbourhood_cleansed_St. Hanshaugen,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Stovner,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Søndre Nordstrand,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Ullern,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Valby,Copenhagen,-11.452529495215977,-30.16353405958173
+neighbourhood_cleansed_Vanløse,Copenhagen,-4.484922180205866,-22.981154730408967
+neighbourhood_cleansed_Vesterbro-Kongens Enghave,Copenhagen,-0.0,-18.028405361883227
+neighbourhood_cleansed_Vestre Aker,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Østensjø,Copenhagen,0.0,0.0
+neighbourhood_cleansed_Østerbro,Copenhagen,39.10248051566611,34.629043821282416
+bathrooms_text_0 shared baths,Copenhagen,-0.0,-8.249046899487462
+bathrooms_text_1 bath,Copenhagen,-0.0,-29.187692358294488
+bathrooms_text_1 private bath,Copenhagen,-0.0,-14.555403230227393
+bathrooms_text_1 shared bath,Copenhagen,-0.0,-17.971169889498857
+bathrooms_text_1.5 baths,Copenhagen,12.822593093837847,20.585907048907526
+bathrooms_text_1.5 shared baths,Copenhagen,-0.0,-2.3817931005965387
+bathrooms_text_2 baths,Copenhagen,10.871734781064763,33.33519190661014
+bathrooms_text_2 shared baths,Copenhagen,-1.88091989713785,-13.595265691429885
+bathrooms_text_2.5 baths,Copenhagen,19.070885533791316,34.793977546993965
+bathrooms_text_2.5 shared baths,Copenhagen,0.0,-0.9208925153535981
+bathrooms_text_3 baths,Copenhagen,8.968283258440048,27.033169100249655
+bathrooms_text_3 shared baths,Copenhagen,-0.0,-3.0522790521715675
+bathrooms_text_3.5 baths,Copenhagen,-0.0,-3.515190054410759
+bathrooms_text_4 baths,Copenhagen,37.88631691340534,46.35726590367927
+bathrooms_text_4 shared baths,Copenhagen,-27.87666936792433,-35.59363081392549
+bathrooms_text_4.5 baths,Copenhagen,0.0,0.0
+bathrooms_text_5 baths,Copenhagen,-0.0,-5.889428321525665
+bathrooms_text_Half-bath,Copenhagen,-0.0,-9.327727963860962
+bathrooms_text_Private half-bath,Copenhagen,-0.0,-5.827655866195953
+bathrooms_text_Shared half-bath,Copenhagen,-0.0,-9.914976892233618
+property_type_Entire Alternative,Copenhagen,0.0,-2.1786494051218
+property_type_Entire Luxury,Copenhagen,0.00941762008350354,6.74021886454511
+property_type_Entire Standard,Copenhagen,0.0,-3.2711729978697224
+property_type_Hotel,Copenhagen,-1.318651420921073,-14.631461821297844
+property_type_Private Standard,Copenhagen,-0.0,-0.4207263933704499
+property_category_Hotel,Copenhagen,-1.2650539188356825e-15,-14.63146182129783
+property_category_Luxury,Copenhagen,0.0,6.74021886454471
+property_category_Special,Copenhagen,-0.0,-4.875269981877411
+property_category_Standard,Copenhagen,0.0,-3.289228779620429
